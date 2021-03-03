@@ -1,0 +1,25 @@
+## Interface: 90002
+## Title:
+## Notes:
+## Author:
+## Version:
+## SavedVariables:
+## OptionalDeps:
+## X-Embeds: 
+
+# External libraries
+
+# Core Entrypoint
+Libs\Core\AddonHost.lua
+
+# Child Libraries
+
+# Locale File
+
+# Data Files
+
+# Globals
+
+# Utility Files
+
+# UI Files
