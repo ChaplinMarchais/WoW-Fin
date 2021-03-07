@@ -1,0 +1,26 @@
+## Interface: 90002
+## Title: FinWoW
+## Notes: The newest iteration of Financial Technology for your use in mastering the WoW exonomy! Become the WoW 1%!
+## Author: Chaplin Marchais
+## Version: 1.0.0.1
+## SavedVariables: FinWoWCoreDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+# External libraries
+embeds.xml
+
+# Core Entrypoint
+core.lua
+
+# Child Libraries
+
+# Locale File
+
+# Data Files
+
+# Globals
+
+# Utility Files
+
+# UI Files

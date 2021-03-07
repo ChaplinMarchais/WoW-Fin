@@ -1,5 +1,9 @@
 {
     "Lua.diagnostics.globals": [
         "LibStub"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "ambiguity-1"
     ]
 }
